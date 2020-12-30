@@ -18,7 +18,7 @@ the Unity DOTS tech stack in a single place. Currently, the major ones are:
 
 Currently the project supports these:
 ```
-Unity: 2019.3.6f1
+Unity: 2019.4.17f1
 Platforms: Windows and MacOS
 ```
 
