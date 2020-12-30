@@ -17,7 +17,7 @@
     "com.unity.physics": "0.2.5-preview.1",
     "com.unity.platforms": "0.1.6-preview",
     "com.unity.render-pipelines.core": "7.3.1",
-    "com.unity.render-pipelines.high-definition": "7.3.1",
+    "com.unity.render-pipelines.high-definition": "7.5.2",
     "com.unity.render-pipelines.high-definition-config": "7.3.1",
     "com.unity.rendering.hybrid": "0.3.1-preview.10",
     "com.unity.scriptablebuildpipeline": "1.14.1",
